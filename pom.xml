@@ -11,7 +11,7 @@
     <name>platform-common</name>
 
     <properties>
-        <spring.version>4.2.5.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <junit>4.8.1</junit>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <httpcomponents.version>4.2.3</httpcomponents.version>
